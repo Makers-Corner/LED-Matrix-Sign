@@ -44,7 +44,7 @@ Install via Library Manager or manually:
 - [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)  
 - [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)  
 - [WiFiManager](https://github.com/tzapu/WiFiManager)  
-- [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) *(if you swap WebServer for AsyncWebServer)* (NOT TESTED!!! Try at own risk)
+- [ESPAsyncWebServer](https://github.com/ESP32Async/ESPAsyncWebServer) *(if you swap WebServer for AsyncWebServer)* (NOT TESTED!!! Try at own risk)
 - EEPROM (built-in)  
 - math.h (built-in)  
 
