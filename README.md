@@ -44,7 +44,7 @@ Install via Library Manager or manually:
 - [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)  
 - [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)  
 - [WiFiManager](https://github.com/tzapu/WiFiManager)  
-- [ESPAsyncWebServer](https://github.com/ESP32Async/ESPAsyncWebServer) *(if you swap WebServer for AsyncWebServer)* (NOT TESTED!!! Try at own risk)
+- [ESPAsyncWebServer](https://github.com/ESP32Async/ESPAsyncWebServer) *(OPTIONAL if you swap WebServer for AsyncWebServer)* (NOT TESTED!!! TRY AT OWN RISK!!!)
 - EEPROM (built-in)  
 - math.h (built-in)  
 
@@ -56,7 +56,7 @@ Install via Library Manager or manually:
 2. Open Arduino Sketch File
 3. Install ESP32 dependencies if needed
 4. Install NeoMatrix and WifiManager libraries
-5. Modify line 10 "#DEFINE MATRIX WIDTH" to desired length (default is "96" for 3 8x32 panels)
+5. Modify line 10 "#DEFINE MATRIX WIDTH" to desired length (default is "96" for 3 - 8x32 panels)
 6. Connect ESP32 via USB
 7. Upload code
 
@@ -65,5 +65,6 @@ Install via Library Manager or manually:
 1. Connect to LED SIGN wifi network
 2. Once connected it should auto launch your web browser to the setup page
 3. If it does not automatically launch, open your browser and navigate to 192.168.4.1
-4. Once sign is connected the ip address will start scrolling on the display
-5. Go to ip address shown on the display and enjoy your new sign
+4. Once sign is connected your selected network the ip address will start scrolling on the display
+5. Go to ip address shown on the display
+6. enjoy your new sign
