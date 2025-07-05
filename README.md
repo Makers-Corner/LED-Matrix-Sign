@@ -30,7 +30,7 @@ Customize up to 10 messages, pick from a variety of color and animation effectsâ
 ## ðŸ”§ Hardware
 
 - ESP32 development board  
-- 8x32 Flecible LED Matrix Panels (3 panels is optimal)  
+- 8x32 Flexible LED Matrix Panels (3 panels is optimal)  
 - Push-button wired to GPIO 15 (factory-reset & reboot)  
 - 5V Power Supply
 
@@ -55,13 +55,15 @@ Install via Library Manager or manually:
 1. Download ZIP
 2. Open Arduino Sketch File
 3. Install ESP32 dependencies if needed
-4. Install NeoMatrix and WifiManager libraries.
-5. Connect ESP32 via USB
-6. Upload code
+4. Install NeoMatrix and WifiManager libraries
+5. Modify line 10 "#DEFINE MATRIX WIDTH" to desired length (default is "96" for 3 8x32 panels)
+6. Connect ESP32 via USB
+7. Upload code
 
 ## After Installation
 
 1. Connect to LED SIGN wifi network
-2. Go to wifi setup and select network to connect sign to
-3. Once sign is connected the ip address will start scrolling on the display
-4. Go to ip address shown on the display and enjoy your new sign
+2. Once connected it should auto launch your web browser to the setup page
+3. If it does not automatically launch, open your browser and navigate to 192.168.4.1
+4. Once sign is connected the ip address will start scrolling on the display
+5. Go to ip address shown on the display and enjoy your new sign
