@@ -17,7 +17,7 @@ Customize up to 10 messages, pick from a variety of color and animation effects�
   - Random Colors  
   - Random Effects  
   - **’Murica** (red-white-blue)  
-  - **Christmas** (red-warm-white-green)  
+  - **Christmas** (red-white-green)  
   - **Irish** (green-white-orange)  
 - **Adjustable scroll speed** (1–10)  
 - **Web UI** for message/effect/color editing  
