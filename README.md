@@ -70,5 +70,5 @@ Install via Library Manager or manually:
 6. enjoy your new sign
 
 
-WIRING DIAGRAM COMING TOMORROW
+# **WIRING DIAGRAM COMING TOMORROW**
 
