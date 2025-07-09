@@ -68,3 +68,7 @@ Install via Library Manager or manually:
 4. Once sign is connected your selected network the ip address will start scrolling on the display
 5. Go to ip address shown on the display
 6. enjoy your new sign
+
+
+9. ![Screenshot_20250708-194555](https://github.com/user-attachments/assets/1f5e98ce-4765-4c86-a952-2f8a3418e757)
+
