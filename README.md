@@ -70,5 +70,5 @@ Install via Library Manager or manually:
 6. enjoy your new sign
 
 
-9. ![Screenshot_20250708-194555](https://github.com/user-attachments/assets/1f5e98ce-4765-4c86-a952-2f8a3418e757)
+WIRING DIAGRAM COMING TOMORROW
 
