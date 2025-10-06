@@ -72,5 +72,5 @@ Install via Library Manager or manually:
 
 # **WIRING DIAGRAM COMING TOMORROW**
 
-(LED%20Sing%20Wiring)
+(LED%20Sign%20Wiring)
 
