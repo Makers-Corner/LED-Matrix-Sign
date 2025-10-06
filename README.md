@@ -70,6 +70,7 @@ Install via Library Manager or manually:
 6. enjoy your new sign
 
 
+## Wiring Diagram
 
 <img width="1280" height="720" alt="LED Sign Wiring" src="https://github.com/user-attachments/assets/4bee2ef0-635c-41c2-bbb6-db3215878cf9" />
 
